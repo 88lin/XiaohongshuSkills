@@ -1,6 +1,14 @@
 # RedBookSkills
 
+## 赞助商
 
+**中转站**：<https://code.aistar.cool>
+
+- 1:1 美元充值
+- 0.25 倍率消耗
+- 已稳定运行半年
+
+说明：中转信息仅作经验交流，请自行判断是否适合自己的使用场景。
 
 自动发布内容到小红书（Xiaohongshu/RED）的命令行工具，也支持仅启动测试浏览器（不发布）。
 通过 Chrome DevTools Protocol (CDP) 实现自动化发布，支持图文发布、视频发布、多账号管理、无头模式运行、自动搜索素材与内容数据抓取等功能。
@@ -409,27 +417,14 @@ MIT License
 
 微信号：`whitedewstory`
 
-## 中转推荐
-
-如需了解常用中转方案，当前可用中转：https://code.aistar.cool
-
-- 1:1 美元充值
-- 0.25 倍率消耗
-- 已稳定运行半年
-
-说明：中转信息仅作经验交流，请自行判断是否适合自己的使用场景。
-
 <img src="public/whitedew.jpg" alt="微信二维码" width="240" />
 
 ### 微信群二维码
 微信群：白露的 Ai+知识圈 1
 <img src="https://png1.aistar.cool/qr/wechat-group.png" alt="微信群二维码" width="240" />
 
-### 知识星球，分享最新的使用技巧
-<img src="20260302-141029.jpg" alt="知识星球二维码" width="240" />
-
 ## Stars
-[![Stargazers over time](https://starchart.cc/white0dew/XiaohongshuSkills.svg?variant=adaptive)](https://starchart.cc/white0dew/XiaohongshuSkills)
+[![Star history](assets/star-history.svg)](https://github.com/white0dew/XiaohongshuSkills/stargazers)
 
 ## 致谢
 灵感来自：[Post-to-xhs](https://github.com/Angiin/Post-to-xhs)

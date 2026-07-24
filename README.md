@@ -2,11 +2,10 @@
 
 ## 赞助商
 
-**中转站**：<https://code.aistar.cool>
-
+**Code中转站**：<https://code.aistar.cool>
 - 1:1 美元充值
-- 0.25 倍率消耗
 - 已稳定运行半年
+- 支持Codex、Claude
 
 说明：中转信息仅作经验交流，请自行判断是否适合自己的使用场景。
 
